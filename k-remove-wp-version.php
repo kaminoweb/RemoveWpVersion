@@ -2,8 +2,8 @@
 /**
 * Plugin Name:       Remove WordPress version
 * Plugin URI:        https://github.com/kaminoweb
-* Description:       Removes WordPress version in HTML pages
-* Version:           0.2
+* Description:       Removes WordPress version in pages
+* Version:           0.3
 * Requires at least: 5.5
 * Author:            Kaminoweb Inc
 * Author URI:        https://kaminoweb.com/

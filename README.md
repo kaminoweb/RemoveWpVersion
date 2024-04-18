@@ -6,8 +6,31 @@ This plugin removes the WordPress version in the HTML pages.
 
 To install this plugin and get it working, follow the steps below:
 
-1. Upload `kaminoweb-remove-version` directory into the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload 'RemoveWpVersion' directory into the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+## Screenshots
+
+There is no screen shot at this time.
+
+## Frequently Asked Questions
+
+### How to remove this plugin?
+
+To remove this plugin, you can:
+
+1. De-activate the plugin through the 'Plugins' menu in WordPress
+2. Then delete the plugin through the 'Plugins' menu in WordPress
+
+You can also:
+
+* Manually delete the directory 'RemoveWpVersion' into the '/wp-content/plugins/` directory
+
+## Changelog
+
+* (April 18th 2024). Tested with WordPress 6.5.2.
+* (April 18th 2024). Added a dashboard page.
+* (1 September 2020). Initial Release.
 
 ## License
 
