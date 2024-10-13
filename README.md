@@ -28,6 +28,7 @@ You can also:
 
 ## Changelog
 
+* (October 13th 2024). Tested with WordPress 6.6.2.
 * (April 18th 2024). Tested with WordPress 6.5.2.
 * (April 18th 2024). Added a dashboard page.
 * (1 September 2020). Initial Release.
